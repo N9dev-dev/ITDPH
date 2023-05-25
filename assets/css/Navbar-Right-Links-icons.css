@@ -55,3 +55,15 @@
   border-radius: 50%;
 }
 
+.fieldd {
+  position: absolute;
+  width: 300px;
+  margin-left: 100px;
+}
+
+.ball1 {
+  position: absolute;
+  width: 300PX;
+  margin-left: 100px;
+}
+
